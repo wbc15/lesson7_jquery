@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(William Clayton)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment requires students to edit the template files given to make the program work properly.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://wbc15.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to inspect a page and naviagte through the DOM tree to edit soecific sections of code)
+2. (How to add the hover function and add different colors for the headers when the mouse is hovering over the headers)
+3. (How to connect the script file to the index.html file to make the webpage work properly.)
 
